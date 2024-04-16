@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on patent analysis with NLP frameworks
-- 👯 I’m open to new opportunities in the field of NLP, Machine Learning and Data Science.
+- 🧑🏻‍💻 I have done many projects of applying machine learning and NLP algorithms in different data-driven projects
+- 👯 I’m open to new opportunities in the field of NLP, Machine Learning and Data Science
 
 ⚡ Fun fact:
   * [SICP: the end of an era](https://youtu.be/OgRFOjVzvm0)
