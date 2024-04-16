@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on patent analysis with NLP frameworks
-- 👯 I’m looking to collaborate on any projects about chatbot with deep learning tools
+- 👯 I’m open to new opportunities in the field of NLP, Machine Learning and Data Scientist.
 
 ⚡ Fun fact:
   * [SICP: the end of an era](https://youtu.be/OgRFOjVzvm0)
