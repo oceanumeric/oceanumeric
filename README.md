@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on patent analysis with NLP frameworks
 - 🧑🏻‍💻 I have done many projects of applying machine learning and NLP algorithms in different data-driven projects
 - 👯 I’m open to new opportunities in the field of NLP, Machine Learning and Data Science
+- 😍 I am a big fan of FAIR data principle and Knowledge Graph with Ontology Engineering Mindset
 
 ⚡ Fun fact:
   * [SICP: the end of an era](https://youtu.be/OgRFOjVzvm0)
